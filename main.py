@@ -1,5 +1,5 @@
 import test
 import requests
 print("main")
-print(requests.get("google.com"))
-print(requests.get("localhost:8090"))
+print(requests.get("http://google.com"))
+print(requests.get("http://localhost:8090"))

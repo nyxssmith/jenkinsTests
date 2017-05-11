@@ -1,0 +1,52 @@
+filewalkerbit.c
+fontio3/backend/filewalkerbit.c(150): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+filewalkerbit.obj : warning LNK4197: export 'PyInit_filewalkerbitbackend' specified multiple times; using first specification
+   Creating library build\temp.win-amd64-3.5\Release\fontio3/backend\filewalkerbitbackend.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\fontio3/backend\filewalkerbitbackend.cp35-win_amd64.exp
+Generating code
+Finished generating code
+filewalker.c
+fontio3/backend/filewalker.c(632): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+fontio3/backend/filewalker.c(645): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+fontio3/backend/filewalker.c(666): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+fontio3/backend/filewalker.c(688): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+fontio3/backend/filewalker.c(705): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+fontio3/backend/filewalker.c(804): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+fontio3/backend/filewalker.c(959): warning C4311: 'type cast': pointer truncation from 'FWK_Context *' to 'unsigned long'
+fontio3/backend/filewalker.c(960): warning C4311: 'type cast': pointer truncation from 'FWK_SubContext *' to 'unsigned long'
+fontio3/backend/filewalker.c(962): warning C4311: 'type cast': pointer truncation from 'FWK_Client *' to 'unsigned long'
+filewalker.obj : warning LNK4197: export 'PyInit_filewalkerbackend' specified multiple times; using first specification
+   Creating library build\temp.win-amd64-3.5\Release\fontio3/backend\filewalkerbackend.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\fontio3/backend\filewalkerbackend.cp35-win_amd64.exp
+Generating code
+Finished generating code
+walkerbit.c
+fontio3/backend/walkerbit.c(686): warning C4244: '=': conversion from 'Py_ssize_t' to 'unsigned long', possible loss of data
+fontio3/backend/walkerbit.c(1199): warning C4244: 'initializing': conversion from 'Py_ssize_t' to 'unsigned long', possible loss of data
+walkerbit.obj : warning LNK4197: export 'PyInit_walkerbitbackend' specified multiple times; using first specification
+   Creating library build\temp.win-amd64-3.5\Release\fontio3/backend\walkerbitbackend.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\fontio3/backend\walkerbitbackend.cp35-win_amd64.exp
+Generating code
+Finished generating code
+walker.c
+fontio3/backend/walker.c(1102): warning C4244: 'function': conversion from 'Py_ssize_t' to 'unsigned long', possible loss of data
+walker.obj : warning LNK4197: export 'PyInit_walkerbackend' specified multiple times; using first specification
+   Creating library build\temp.win-amd64-3.5\Release\fontio3/backend\walkerbackend.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\fontio3/backend\walkerbackend.cp35-win_amd64.exp
+Generating code
+Finished generating code
+utilities.c
+utilities.obj : warning LNK4197: export 'PyInit_utilitiesbackend' specified multiple times; using first specification
+   Creating library build\temp.win-amd64-3.5\Release\fontio3/backend\utilitiesbackend.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\fontio3/backend\utilitiesbackend.cp35-win_amd64.exp
+Generating code
+Finished generating code
+cspan.c
+fontio3/backend/cspan.c(416): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+fontio3/backend/cspan.c(494): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+fontio3/backend/cspan.c(705): warning C4018: '>': signed/unsigned mismatch
+fontio3/backend/cspan.c(718): warning C4018: '<': signed/unsigned mismatch
+fontio3/backend/cspan.c(758): warning C4018: '<=': signed/unsigned mismatch
+fontio3/backend/cspan.c(760): warning C4018: '>': signed/unsigned mismatch
+fontio3/backend/cspan.c(774): warning C4018: '>=': signed/unsigned mismatch
+fontio3/backend/cspan.c(776): warning C4018: '<': signed/unsigned mismatch
+fontio3/backend/cspan.c(829): warning C4244: '=': conversion from '__int64' to 'unsigned long', possible loss of data
+cspan.obj : warning LNK4197: export 'PyInit_cspanbackend' specified multiple times; using first specification
+   Creating library build\temp.win-amd64-3.5\Release\fontio3/backend\cspanbackend.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\fontio3/backend\cspanbackend.cp35-win_amd64.exp
+Generating code
+Finished generating code
